@@ -1,0 +1,11 @@
+4.what is DFD? create a DFD diagram on flipkart?
+==>
+A data flow diagram (DFD) maps out the flow of information for any process or system. It uses defined symbols like rectangles, circles and arrows, plus short text labels, to show data inputs, outputs, storage points and the routes between each destination. Data flowcharts can range from simple, even hand-drawn process overviews, to in-depth, multi-level DFDs that dig progressively deeper into how the data is handled. They can be used to analyze an existing system or model a new one. Like all the best diagrams and charts, a DFD can often visually “say” things that would be hard to explain in words, and they work for both technical and nontechnical audiences, from developer to CEO. That’s why DFDs remain so popular after all these years. While they work well for data flow software and systems, they are less applicable nowadays to visualizing interactive, real-time or database-oriented software or systems.
+
+5.what is flow chart? create a flowchart to make addition of to numbers?
+==>
+A flowchart is a diagram that shows an overview of a program . Flowcharts normally use standard symbols to represent the different types of instructions . These symbols are used to construct the flowchart and show the step-by-step solution to the problem.
+
+6.what is use case diagram?create a use case on bill payment on paytem..
+==>
+usecase can summarize the details of yours systems's users also knowns as actors and their interaction with the system to build one, you all use a set of specialized symbols and connectors. an effective use case diagram can help your team discuss and represent.
